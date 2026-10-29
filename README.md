@@ -1,0 +1,2 @@
+# Insight-into-Retail-Sales-Data-An-End-to-End-Operational-Analysis-2026-
+This Python repository cleans and analyzes a retail sales dataset to optimize e-commerce operations. It uses Pandas and NumPy to fix data issues like missing values, duplicates, and invalid numbers. Using Matplotlib, Seaborn, and Plotly, the project reveals core trends in customer demographics, product returns, and high-margin sales.
